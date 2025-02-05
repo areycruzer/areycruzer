@@ -17,10 +17,10 @@ I enjoy collaborating on open-source projects, contributing to the community, an
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/arjunnegi" target="_blank">
+<a href="https://www.linkedin.com/in/areyswyam" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
-<a href="https://instagram.com/arjunnegi.insta" target="_blank">
+<a href="https://instagram.com/areyswyam" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
 </a>
 
@@ -60,7 +60,7 @@ I enjoy collaborating on open-source projects, contributing to the community, an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderOtakuX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CoderOtakuX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=abeycruzer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
