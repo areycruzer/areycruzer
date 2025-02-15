@@ -47,24 +47,17 @@ I enjoy collaborating on open-source projects, contributing to the community, an
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/CoderOtakuX/CoderOtakuX/blob/output/github-snake-dark.svg" />
-  <br/><br/><br/>
-</div>
-
 
 ## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=CoderOtakuX&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderOtakuX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=areycruzer&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=areycruzerX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abeycruzer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=CoderOtakuX&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=areycruzer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
