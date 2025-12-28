@@ -38,14 +38,6 @@ I specialize in creating dynamic, responsive web applications with an emphasis o
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=areycruzer&show_icons=true&theme=radical&count_private=true" alt="Swyam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areycruzer&layout=compact&theme=radical&hide=html,css" alt="Top Languages" width="48%" />
-</p>
-
----
 
 ### 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/areyswyam/) | [Portfolio](https://swyam.me) | [Email](mailto:swyam7@gmail.com)
