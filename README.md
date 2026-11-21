@@ -20,9 +20,10 @@ In review: [Headlamp](https://github.com/kubernetes-sigs/headlamp/pulls?q=is%3Ap
 
 - **[substrate-friction](https://github.com/areycruzer/substrate-friction)**: before a test selection tool skips a test, measure the call graph it trusted. On django, a type-resolved graph reaches the guarding test 0.545 of the time (24/44); pooled across 7 repos it is 0.419 (72/172). Every figure comes from a committed script. [Project site](https://areycruzer.github.io/substrate-friction)
 - **[kwik112-assemblyai](https://github.com/areycruzer/kwik112-assemblyai)**: an AI call-taker for India's 112 emergency line, built on the AssemblyAI Voice Agent API. The agent can raise a call's severity but code never lets it lower it, and a human makes every dispatch decision. Next.js and TypeScript, with tests and CI on every push. [Live demo](https://kwik112-assemblyai.vercel.app)
-- **[godown-rbac-system](https://github.com/areycruzer/godown-rbac-system)**: a multi-tenant Django REST backend with dynamic role-based access control, feature flags and audit logging, plus a test suite.
-- **[clinikally-skinai](https://github.com/areycruzer/clinikally-skinai)**: an agentic skincare assistant. FastAPI with WebSocket streaming, retrieval over Weaviate, Gemini, deployed with Docker and Caddy.
-- **[Shree Anna](https://github.com/areycruzer/SHRI-ANNA)**: a millets marketplace, winner of Smart India Hackathon 2025. [Live demo](https://shreeanna-indol.vercel.app)
+- **[godown-rbac-system](https://github.com/areycruzer/godown-rbac-system)**: a multi-tenant Django REST backend with dynamic role-based access control, feature flags and audit logging. 268 tests run in CI against Postgres.
+- **[DishEdit](https://github.com/areycruzer/DishEdit)**: a SwiftUI iOS app for customizing a food order by tapping ingredients on the dish image, with an iOS Simulator build in CI.
+- **[clinikally-skinai](https://github.com/areycruzer/clinikally-skinai)**: a skincare chat assistant with product search, retrieval over blog content and skin photo analysis. Built on Weaviate's open source Elysia agent framework; FastAPI, DSPy, Weaviate, Docker.
+- **Shree Anna**: a millets marketplace, winner of Smart India Hackathon 2025. [Live demo](https://shreeanna-indol.vercel.app) and [mobile app](https://github.com/areycruzer/ShreeAnnaMobile)
 
 Team projects with [@JAYATIAHUJA](https://github.com/JAYATIAHUJA): [HIRE](https://github.com/JAYATIAHUJA/HIRE) and [Solo License](https://github.com/JAYATIAHUJA/Solo_license) ([9 merged PRs](https://github.com/JAYATIAHUJA/Solo_license/pulls?q=is%3Apr+is%3Amerged+author%3Aareycruzer)).
 
