@@ -1,43 +1,35 @@
-# Hi there, I'm Swyam Sharma! 👋
+# Hi, I'm Swyam Sharma
 
-**Web3 & Full-Stack Developer | Digital Forensic Examiner | UI/UX Enthusiast**
+Final-year B.Tech CSE student at VIPS. I build full-stack and AI agent systems, and I do bug bounty work (over $3,000 earned so far). I have won 16 hackathons, including Smart India Hackathon 2025. I like projects where the claim is something a script can check.
 
-I specialize in creating dynamic, responsive web applications with an emphasis on delivering optimal user experiences. Currently, I am building secure digital evidence tools at **Enreach Solutions** and leading technical initiatives at **CyberCIA Forge**.
+I'm looking for software engineering, full-stack, AI agent and security internships, in India and abroad.
 
----
+## Open source
 
-### 🏆 Key Highlights
-* **SIH 2025 Winner:** Lead developer for *Shree Anna*, a government-aligned AgriTech marketplace.
-* **Digital Forensic Examiner:** Handling on-site raids and evidence acquisition with Income Tax & DGGI units.
-* **Published Author:** Co-authored *"Green Computing Strategies"* in *Green Computational Intelligence* (Wiley, 2025).
-* **Hackathon Champion:** Winner of 11 hackathons (3 International).
+Merged:
 
----
+- [kubernetes-sigs/headlamp #7002](https://github.com/kubernetes-sigs/headlamp/pull/7002): TCPRoute and UDPRoute views for the Kubernetes web UI (Aug 2026)
+- [OrchestratorInc/agent-orchestrator #2348](https://github.com/OrchestratorInc/agent-orchestrator/pull/2348) and [#2259](https://github.com/OrchestratorInc/agent-orchestrator/pull/2259): a sidebar feedback report flow, and failing fast when tmux is missing (Jun to Jul 2026)
+- [mofa-org/mofa #123](https://github.com/mofa-org/mofa/pull/123), [#642](https://github.com/mofa-org/mofa/pull/642) and [#183](https://github.com/mofa-org/mofa/pull/183): MCP server integration, a `mofa plugin new` CLI command, and README docs (Feb to Mar 2026)
+- [CALLE-AI/awesome-phone-call-agents #458](https://github.com/CALLE-AI/awesome-phone-call-agents/pull/458): an emergency intake practice call with a 13-test suite (Sep 2026)
+- [aoagents/ReverbCode #323](https://github.com/aoagents/ReverbCode/pull/323) and [#358](https://github.com/aoagents/ReverbCode/pull/358): sanitizing CI logs before they are pasted into a terminal, and showing the real session branch (Jun 2026)
 
-### 🛠️ Tech Stack
+In review: [Headlamp](https://github.com/kubernetes-sigs/headlamp/pulls?q=is%3Apr+author%3Aareycruzer), [KubeEdge](https://github.com/kubeedge/kubeedge/pulls?q=is%3Apr+author%3Aareycruzer) and [EdgeMesh](https://github.com/kubeedge/edgemesh/pulls?q=is%3Apr+author%3Aareycruzer).
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## Projects
 
----
+- **[substrate-friction](https://github.com/areycruzer/substrate-friction)**: before a test selection tool skips a test, measure the call graph it trusted. On django, a type-resolved graph reaches the guarding test 0.545 of the time (24/44); pooled across 7 repos it is 0.419 (72/172). Every figure comes from a committed script. [Project site](https://areycruzer.github.io/substrate-friction)
+- **[kwik112-assemblyai](https://github.com/areycruzer/kwik112-assemblyai)**: an AI call-taker for India's 112 emergency line, built on the AssemblyAI Voice Agent API. The agent can raise a call's severity but code never lets it lower it, and a human makes every dispatch decision. Next.js and TypeScript, with tests and CI on every push. [Live demo](https://kwik112-assemblyai.vercel.app)
+- **[godown-rbac-system](https://github.com/areycruzer/godown-rbac-system)**: a multi-tenant Django REST backend with dynamic role-based access control, feature flags and audit logging, plus a test suite.
+- **[clinikally-skinai](https://github.com/areycruzer/clinikally-skinai)**: an agentic skincare assistant. FastAPI with WebSocket streaming, retrieval over Weaviate, Gemini, deployed with Docker and Caddy.
+- **[Shree Anna](https://github.com/areycruzer/SHRI-ANNA)**: a millets marketplace, winner of Smart India Hackathon 2025. [Live demo](https://shreeanna-indol.vercel.app)
 
-### 🚀 Featured Projects
+Team projects with [@JAYATIAHUJA](https://github.com/JAYATIAHUJA): [HIRE](https://github.com/JAYATIAHUJA/HIRE) and [Solo License](https://github.com/JAYATIAHUJA/Solo_license) ([9 merged PRs](https://github.com/JAYATIAHUJA/Solo_license/pulls?q=is%3Apr+is%3Amerged+author%3Aareycruzer)).
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[SWYF](https://github.com/areycruzer/SWYF)** | **AI Virtual Try-On Platform.** <br> 3x Hackathon winner. Uses CV to visualize fashion items on users with 95% color accuracy. | `Python` `AI/ML` `React` |
-| **[erp_v0](https://github.com/areycruzer/erp_v0)** | **Construction Field PWA.** <br> A mobile-first attendance system with geofencing, QR check-ins, and offline sync. | `TypeScript` `React` `Workbox` |
-| **[Shree Anna](https://shree-anna-frontend.onrender.com)** | **SIH 2025 Winner.** <br> AgriTech marketplace connecting farmers & consumers. | `MERN Stack` `JWT` |
-| **[Kwik](https://112-emergency.vercel.app/dashboard)** | **AI Emergency Dispatch.** <br> Sub-2s triage system for India's 112 ERSS with emotion-aware NLP. | `AI/ML` `Next.js` |
+## Writing
 
----
+Co-author of "Green Computing Strategies" in *Green Computational Intelligence* (Wiley, 2025).
 
+## Contact
 
-### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/areyswyam/) | [Portfolio](https://swyam.me) | [Email](mailto:swyam7@gmail.com)
+[Portfolio](https://swyamsharma.vercel.app) | [LinkedIn](https://www.linkedin.com/in/areyswyam/) | [Email](mailto:swyam7@gmail.com)
